@@ -1,0 +1,6 @@
+{
+  "name": "آموزش لغات انگلیسی (Vocab Learner)",
+  "description": "یک برنامه تعاملی و زیبا برای یادگیر لغات کاربردی انگلیسی همراه با فلش‌کارت، سنجش تلفظ و آزمون‌های متنوع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
